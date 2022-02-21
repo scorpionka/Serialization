@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary serialization", "Binary serialization\Binary serialization.csproj", "{574A4E22-FA2D-4DBF-856D-4BEBC2AC1D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML serialization", "XML serialization\XML serialization.csproj", "{AC60EDF6-A041-4EFB-863B-44329F701B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json serialization", "Json serialization\Json serialization.csproj", "{F4BCC278-6CAE-46AA-939C-7EB088CE2E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574A4E22-FA2D-4DBF-856D-4BEBC2AC1D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574A4E22-FA2D-4DBF-856D-4BEBC2AC1D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574A4E22-FA2D-4DBF-856D-4BEBC2AC1D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574A4E22-FA2D-4DBF-856D-4BEBC2AC1D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC60EDF6-A041-4EFB-863B-44329F701B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC60EDF6-A041-4EFB-863B-44329F701B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC60EDF6-A041-4EFB-863B-44329F701B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC60EDF6-A041-4EFB-863B-44329F701B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BCC278-6CAE-46AA-939C-7EB088CE2E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BCC278-6CAE-46AA-939C-7EB088CE2E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BCC278-6CAE-46AA-939C-7EB088CE2E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BCC278-6CAE-46AA-939C-7EB088CE2E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1776CD75-853E-4709-B197-6E4636956BF1}
+	EndGlobalSection
+EndGlobal
